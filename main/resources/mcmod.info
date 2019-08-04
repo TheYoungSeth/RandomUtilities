@@ -1,0 +1,16 @@
+[
+{
+  "modid": "randomutilities",
+  "name": "Random Utilities",
+  "description": "§ar §7a §dn §4d §co §em",
+  "version": "0.0.1a",
+  "mcversion": "1.7.X",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheYoungSeth#6155"],
+  "credits": "Only I did it lmao",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
