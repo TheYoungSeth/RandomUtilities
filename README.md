@@ -1,4 +1,4 @@
 # RandomUtilities
-A Minecraft mod that I am developing
+A Minecraft mod that I was developing
 
-THIS MOD IS DEPRECATED AND HAS NO USE.
+I was 12 when I made this.
